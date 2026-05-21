@@ -1,0 +1,24 @@
+[
+  {
+    "repo": "mem0ai/mem0",
+    "number": 123,
+    "title": "Improve memory retrieval cache",
+    "url": "https://github.com/mem0ai/mem0/pull/123",
+    "author": "alice",
+    "merged_at": "2026-05-07T13:20:00Z",
+    "body": "Adds cache invalidation for memory retrieval and recall.",
+    "labels": ["enhancement"],
+    "changed_files": ["src/memory/store.py", "docs/context.md"]
+  },
+  {
+    "repo": "mksglu/context-mode",
+    "number": 45,
+    "title": "Update docs",
+    "url": "https://github.com/mksglu/context-mode/pull/45",
+    "author": "bob",
+    "merged_at": "2026-05-07T11:00:00Z",
+    "body": "Documentation cleanup.",
+    "labels": ["docs"],
+    "changed_files": ["README.md"]
+  }
+]

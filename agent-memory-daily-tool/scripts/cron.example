@@ -1,0 +1,2 @@
+TZ=Asia/Shanghai
+30 7 * * * cd /path/to/agent-memory-daily && ./scripts/run.sh --no-codex >> logs/cron.log 2>&1

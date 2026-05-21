@@ -1,0 +1,48 @@
+{
+  "timezone": "Asia/Shanghai",
+  "codex_enabled": true,
+  "include_direct_commits": false,
+  "repos": [
+    {"name": "openclaw", "full_name": "openclaw/openclaw"},
+    {"name": "claude-mem", "full_name": "thedotmack/claude-mem"},
+    {"name": "mem0", "full_name": "mem0ai/mem0"},
+    {"name": "mem9", "full_name": "mem9-ai/mem9"},
+    {"name": "context-mode", "full_name": "mksglu/context-mode"},
+    {"name": "lossless-claw", "full_name": "Martian-Engineering/lossless-claw"},
+    {"name": "qmd", "full_name": "tobi/qmd"}
+  ],
+  "keywords": [
+    "memory",
+    "memories",
+    "context",
+    "compaction",
+    "compression",
+    "retrieval",
+    "recall",
+    "embedding",
+    "vector",
+    "graph",
+    "session",
+    "checkpoint",
+    "state",
+    "cache",
+    "persistence",
+    "persistent",
+    "rag",
+    "token",
+    "prompt",
+    "mcp",
+    "hook",
+    "agent"
+  ],
+  "feishu": {
+    "targets": [
+      {
+        "name": "YOUR_GROUP_NAME",
+        "chat_id": "YOUR_CHAT_ID",
+        "identity": "bot",
+        "profile": "YOUR_LARK_CLI_PROFILE"
+      }
+    ]
+  }
+}
